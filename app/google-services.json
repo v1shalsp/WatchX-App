@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "620098327189",
+    "project_id": "watchx-app",
+    "storage_bucket": "watchx-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620098327189:android:b43268a2e27db9264d019c",
+        "android_client_info": {
+          "package_name": "com.example.watchxapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620098327189-bqkrojd2ll5gjptp617tr94kiq3o112h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoFWkvzLztP0k1eEZHDacER36Jk_PzAVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620098327189-bqkrojd2ll5gjptp617tr94kiq3o112h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
